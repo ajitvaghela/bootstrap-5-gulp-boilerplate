@@ -1,0 +1,14 @@
+//Bootstrap 5 Include
+@import "node_modules/bootstrap/scss/bootstrap";
+ 
+
+//Partials Import
+@import "partials/variables";
+@import "partials/global";
+@import "partials/header";
+@import "partials/footer";
+
+
+//Modules Import
+
+@import "modules/pages";
