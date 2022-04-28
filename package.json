@@ -9,8 +9,7 @@
     "url": "https://github.com/ajitvaghela/bootstrap-5-gulp-boilerplate"
   },
   "scripts": {
-    "start": "gulp",
-    "dev": "gulp serve",
+    "dev": "gulp",
     "prod": "cross-env NODE_ENV=prod gulp"
   },
   "devDependencies": {
